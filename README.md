@@ -1,4 +1,11 @@
-# ¡Hola, soy Alejo! 👋
+<h3 align="center">
+  !Alejo Vera Laffratta!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+</p>
+
 Soy un desarrollador apasionado. Me encanta trabajar en proyectos de código abierto y siempre estoy buscando nuevas oportunidades para aprender y crecer. Aquí encontrarás algunos de mis proyectos.
 
 
@@ -20,12 +27,23 @@ Soy un desarrollador apasionado. Me encanta trabajar en proyectos de código abi
 </ul>
 
 
-## Estado del Repositorio
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usuario&show_icons=true&count_private=true&hide_title=true)
+# 📊GitHub Stats :
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AlejoVera97&show_icons=true&hide_title=true&count_private=true&theme=dark" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejoVera97&theme=radical&hide_border=false" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoVera97&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-## Descripción
 
-Aquí puedes agregar una descripción detallada de tu proyecto y cualquier otra información relevante.
+
 
 
