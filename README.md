@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola, soy Alejo! 👋
+Soy un desarrollador apasionado. Me encanta trabajar en proyectos de código abierto y siempre estoy buscando nuevas oportunidades para aprender y crecer. Aquí encontrarás algunos de mis proyectos.
 
-<!--
-**AlejoVera97/AlejoVera97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&color=239120" alt="C#" />
+  <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&color=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Database-SQL%20Server-informational?style=flat&logo=microsoftsqlserver&color=CC2927" alt="SQL Server" />
+</p>
+
+<h2>📫 Cómo Contactarme</h2>
+<ul>
+  <li><strong>Correo:</strong> alejoveralaffratta21@gmail.com </a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/alejo-vera-laffratta/"> Alejo Vera </a></li>
+  <li><strong>Telefono :</strong> +34 623 248 084 </a></li>
+</ul>
