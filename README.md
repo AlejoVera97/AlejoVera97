@@ -18,3 +18,14 @@ Soy un desarrollador apasionado. Me encanta trabajar en proyectos de código abi
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/alejo-vera-laffratta/"> Alejo Vera </a></li>
   <li><strong>Telefono :</strong> +34 623 248 084 </a></li>
 </ul>
+
+
+## Estado del Repositorio
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usuario&show_icons=true&count_private=true&hide_title=true)
+
+## Descripción
+
+Aquí puedes agregar una descripción detallada de tu proyecto y cualquier otra información relevante.
+
+
